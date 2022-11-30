@@ -24,7 +24,7 @@ const Header = () => {
                         <p> <input type="text" name="name" id="" placeholder='User Name' className='my-5 border border-t-0 border-x-0 border-b-2 border-black placeholder:text-center placeholder:text-primary focus:outline-none focus:text-center focus:text-primary' /> would like a beta invite sent to <input type="email" name="email" id="" placeholder='Email' className='my-5 border border-t-0 border-x-0 border-b-2 border-black placeholder:text-center placeholder:text-primary focus:outline-none focus:text-center focus:text-primary' /> when it’s ready!</p>
                         <div className='my-6'>
                             <button className='btn btn-primary rounded-2xl shadow-md shadow-[#00000032] text-white'>Notify me</button>
-                            <button className='btn bg-transparent border-primary hover:bg-primary hover:border-0 ml-20 rounded-2xl shadow-md shadow-[#00000032] text-[#0085FF] hover:text-white'><p>Signup as a Freelance partner</p></button>
+                            <a href="https://retink.io/fap" target='_blank' rel="noreferrer"><button className='btn bg-transparent border-primary hover:bg-primary hover:border-0 ml-20 rounded-2xl shadow-md shadow-[#00000032] text-[#0085FF] hover:text-white'><p>Signup as a Freelance partner</p></button></a>
                         </div>
                     </div>
                 </div>
