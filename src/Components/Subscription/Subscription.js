@@ -10,6 +10,8 @@ const Subscription = () => {
             </div>
             <button className='btn btn-primary rounded-2xl shadow-md shadow-[#00000032] text-white mt-9'>Notify me</button>
             <br />
+
+
             <a href="https://retink.io/fap" target='_blank' rel="noreferrer">
                 <button className='btn bg-transparent border-primary hover:bg-primary hover:border-0 my-9 rounded-2xl shadow-md shadow-[#00000032] text-[#0085FF] hover:text-white transition duration-700'><p>Signup as a Freelance partner</p></button>
             </a>
